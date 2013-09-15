@@ -1,22 +1,47 @@
-      <div class="navbar-default navbar-fixed-top hidden-xs" style="height:30px;">
-        <div class="container">
-        <div class="row" style="border:1px solid pink">
-          <div class="col-lg-9 col-md-11 col-sm-12 center" style="border:1px solid yellow;">
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <title>UAF</title>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <link href="css/font.css" rel="stylesheet" media="screen">
+          <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+          <link href="css/custom.css" rel="stylesheet" media="screen">
+
+          <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-20932496-2', 'iscte-iul.pt');
+            ga('send', 'pageview');
+
+          </script>
+
+        </head>
+        <body>
+
+    <div id="wrap">
+
+      <div class="navbar-default navbar-static-top hidden-xs header" style="height:30px;">
+        <div class="container" style="padding-top:3px">
+        <div class="row" >
+          <div class="col-lg-9 col-md-11 col-sm-12 center" >
               <div class="row" style="padding-top:3px;">
                   <div class="col-lg-2 col-md-2 col-sm-2 text-left">  
-                    <small><a target="_blank" href="http://iscte-iul.pt/">Website ISCTE-IUL</a></small>
+                    <small><a target="_blank" href="http://iscte-iul.pt/">ISCTE-IUL</a></small>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-3 text-center">  
-                    <small><a target="_blank" href="http://40anos.iscte-iul.pt/">40 anos</a></small>
+                    <small><a target="_blank" href="http://40anos.iscte-iul.pt/">40 ANOS</a></small>
                   </div>
                   <div class="col-lg-2 col-md-2 col-sm-2 text-center">  
-                    <small><a target="_blank" href="http://premioscarreira.iscte-iul.pt/">Pr&eacute;mios Carreira</a></small>
+                    <small><a target="_blank" href="http://premioscarreira.iscte-iul.pt/">Pr&Eacute;MIOS CARREIRA</a></small>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-3 text-center">  
-                    <small><a target="_blank" href="http://iscte-iul.pt/">Mural Solid&aacute;rio</a></small>
+                    <small><a target="_blank" href="http://iscte-iul.pt/">MURAL SOLID&Aacute;RIO</a></small>
                   </div>
                   <div class="col-lg-2 col-md-2 col-sm-2 text-right">  
-                    <small><a target="_blank" href="http://iulstore.iscte-iul.pt/">IUL Store</a></small>
+                    <small><a target="_blank" href="http://iulstore.iscte-iul.pt/">IUL STORE</a></small>
                   </div>
                 </div>
               </div>
@@ -26,13 +51,13 @@
 
     <!-- Begin page content -->
     <div class="container">
-    <div class="row" style="border:1px solid pink">
-        <div class="col-lg-9 col-md-11 col-sm-12 center text-center" style="border:1px solid yellow; padding:3px;">
-        <a href="index.php"><img src="img/logo.jpg" class="img-responsive"></a>
+    <div class="row" >
+        <div class="col-lg-9 col-md-11 col-sm-12 center text-center" >
+        <a href="/"><img src="img/logo.jpg" class="img-responsive"></a>
 
     <div class="row" style="margin-left:0;margin-right:0;">
     <div class="col-lg-8 col-md-8 col-sm-10 text-left" style="color:#006699;padding-left:0px;padding-right:0px;padding-top:0px;">
-    <em><big><string>Unidade de Alumni &amp; Fundraising</string></big></em>
+    <em><big>Unidade de Alumni &amp; Fundraising</big></em>
     </div>
     <div class="col-lg-4 col-md-4 col-sm-2 text-right" style="padding-left:0px;padding-right:0px;padding-top:0px;">
     <a href="https://www.facebook.com/ISCTEIUL"><img src="img/icones/facebook.jpg" alt="facebook"></a>
@@ -44,7 +69,7 @@
 
 
     <div class="navbar navbar-default">
-      <div class="navbar-header">
+      <div class="navbar-header.php">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -53,9 +78,9 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav nav-justified">
-          <li class="active"><a href="#">A nossa miss&atilde;o</a></li>
-          <li ><a href="#">Network Comunity</a></li>
-          <li><a href="#">Projeto C&aacute;tedra</a></li>
+          <li><a href="nossa-missao">A nossa miss&atilde;o</a></li>
+          <li><a href="network">Network Comunity</a></li>
+          <li><a href="catedra">Projeto C&aacute;tedra</a></li>
           <li><a target="_blank" href="http://responsavel.iscte-iul.pt/">IUL Respons&aacute;vel</a></li>
           <li><a href="#">Como ajudar-nos?</a></li>
         </ul>

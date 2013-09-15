@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>UAF</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="css/costum.css" rel="stylesheet" media="screen">
-  </head>
-  <body>
-
-    <div id="wrap">
 
     <?php
       require 'header.php';
@@ -87,13 +76,13 @@
         <div class="row" style="margin: 0px 0 ;">
           <div class="col-lg-6 col-md-6" style="padding-right:3px;padding-left:0px;">
 
-            <a href="network.php"><img class="img-responsive" src="img/quadrados/quadrado1.jpg" ></a>
+            <a href="catedra"><img class="img-responsive" src="img/quadrados/quadrado1.jpg" ></a>
 
           </div>
           
           <div class="col-lg-6 col-md-6" style="padding-right:0px;padding-left:3px;">
 
-          <a href="network.php"><img class="img-responsive" src="img/quadrados/quadrado2.jpg" ></a>
+          <a href="network"><img class="img-responsive" src="img/quadrados/quadrado2.jpg" ></a>
 
           </div>
         </div>
@@ -101,13 +90,13 @@
         <div class="row" style="margin: 5px 0 ;">
           <div class="col-lg-6 col-md-6" style="padding-right:3px;padding-left:0px;">
 
-            <a href="network.php"><img class="img-responsive" src="img/quadrados/quadrado3.jpg" ></a>
+            <a target="_blank" href="http://muralsolidario.iscte-iul.pt/"><img class="img-responsive" src="img/quadrados/quadrado3.jpg" ></a>
 
           </div>
           
           <div class="col-lg-6 col-md-6" style="padding-right:0px;padding-left:3px;">
 
-          <a href="network.php"><img class="img-responsive" src="img/quadrados/quadrado4.jpg" ></a>
+          <a href="network"><img class="img-responsive" src="img/quadrados/quadrado4.jpg" ></a>
 
           </div>
         </div>
@@ -122,35 +111,6 @@
     
     </div><!-- end wrap -->
 
-    <div id="footer">
-      <div class="container">
-        <div class="row" style="border:1px solid pink">
-          <div class="col-lg-9 col-md-11 col-sm-12 center" style="border:1px solid yellow">
-          <div class="row" style="padding-top:3px;">
-            <div class="col-lg-4 col-md-4 col-sm-2 text-right">  
-              <p class="text-muted credit"><small>Av. das For&ccedil;as Armadas</small></p>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-2 text-center">  
-              <p class="text-muted credit"><small>Telefone 2123456789</small></p>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-2 text-left">  
-              <p class="text-muted credit"><small><a href="#contact">apoios@iscte.pt</a></small></p>
-            </div>
-          </div>
-        </div>
-       </div>
-      </div>
-    </div>
-    
-
-    <!-- js files -->
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script type="text/javascript">
-      $('.carousel').carousel({
-        interval: 3000
-      })
-    </script>
-
-  </body>
-</html>
+    <?php
+      require 'footer.php';
+    ?>

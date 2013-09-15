@@ -1,0 +1,19 @@
+@font-face
+{
+font-family: morganbigregular;
+src: url('../font/morganbigregular.ttf'),
+     url('../font/MorganBigRegular.eot'); 
+}
+@font-face
+{
+font-family: MorganSansBoldOblique;
+src: url('../font/morgansansboldoblique.ttf'),
+     url('../font/MorganSansBoldOblique.eot'); 
+}
+@font-face
+{
+font-family: morgansansregular;
+src: url('../font/morgansansregular.ttf'),
+     url('../font/MorganSansRegular.eot'); 
+}
+
