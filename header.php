@@ -55,11 +55,11 @@
         <div class="col-lg-9 col-md-11 col-sm-12 center text-center" >
         <a href="/"><img src="img/logo.jpg" class="img-responsive"></a>
 
-    <div class="row" style="margin-left:0;margin-right:0;">
-    <div class="col-lg-8 col-md-8 col-sm-10 text-left" style="color:#006699;padding-left:0px;padding-right:0px;padding-top:0px;">
-    <em><big>Unidade de Alumni &amp; Fundraising</big></em>
+    <div class="row" style="margin-left:0;padding:7.5px 0;">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-left" style="color:#006699;padding-left:0px;">
+    <span style="font: italic bold 17px MorganSansBoldOblique;" >Unidade de Alumni &amp; Fundraising</span>
     </div>
-    <div class="col-lg-4 col-md-4 col-sm-2 text-right" style="padding-left:0px;padding-right:0px;padding-top:0px;">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-right" style="padding-left:0px;padding-right:0px;">
     <a href="https://www.facebook.com/ISCTEIUL"><img src="img/icones/facebook.jpg" alt="facebook"></a>
     <a href="http://www.flickr.com/photos/iscteiul/"><img src="img/icones/flickr.jpg" alt="flickr"></a>
     <a href="http://www.linkedin.com/company/iscte-iul"><img src="img/icones/linkedin.jpg" alt="linkedin"></a>
@@ -69,25 +69,25 @@
 
 
     <div class="navbar navbar-default">
-      <div class="navbar-header.php">
+      <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
       </div>
-      <div class="navbar-collapse collapse">
+      <div class="navbar-collapse collapse" style="font-size:85%" >
         <ul class="nav nav-justified">
-          <li><a href="nossa-missao">A nossa miss&atilde;o</a></li>
-          <li><a href="network">Network Comunity</a></li>
-          <li><a href="catedra">Projeto C&aacute;tedra</a></li>
-          <li><a target="_blank" href="http://responsavel.iscte-iul.pt/">IUL Respons&aacute;vel</a></li>
-          <li><a href="#">Como ajudar-nos?</a></li>
+          <li><a href="nossa-missao">A NOSSA MISS&Atilde;O</a></li>
+          <li><a href="network">NETWORK COMMUNITY</a></li>
+          <li><a href="catedra">C&Aacute;TEDRA ISCTE-IUL</a></li>
+          <li><a target="_blank" href="http://responsavel.iscte-iul.pt/">IUL RESPONS&Aacute;VEL</a></li>
+          <li><a href="#">COMO APOIAR-NOS?</a></li>
         </ul>
       </div><!--/.nav-collapse -->
     </div>
 
-    <div class="col-lg-12 col-md-12 col-sm-12 center text-center" style="padding: 5px 0 5px 0 ">
+    <div class="col-lg-12 col-md-12 col-sm-12 center text-center" style="padding: 0 0 5px 0 ">
 
         <div id="carousel-example-generic" class="carousel slide">
 

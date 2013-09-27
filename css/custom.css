@@ -1,7 +1,7 @@
 html,
 body { 
     height: 100%;
-    font-family: morgansansregular; }
+    font-family: Verdana; }
 #wrap {
   min-height: 100%;
   height: auto !important;
@@ -12,6 +12,7 @@ body {
 #push,
 #footer {
   max-height: 36px;
+  min-height: 33px;
 }
 #wrap > .container {
   padding-top: 5px;
@@ -28,14 +29,24 @@ body {
   }
 }
 .header, #footer {
-    background-color: #999999;
+    background-color: #cbcbcb;
     font-family: morganbigregular;
     font-size: 13px
+}
+.navbar-default {
+    background-color: #cbcbcb;
+}
+.navbar {
+border-radius: 0;
+margin-bottom: 7px;
+line-height: 1;
+}
+.nav > li > a {
+padding: 10px 10px;
 }
 a {
     color: #006699
 }
-/* start of modification for 5 columns */
 .fivecolumns {
   padding:0px;
 }
@@ -61,6 +72,18 @@ a {
     .fivecolumns .col-lg-3 {
         width: 60%;
         *width: 60%;
+        padding-left:3px;
+        padding-right:3px;
+    }
+    .fivecolumns .col-md-4 {
+        width: 80%;
+        *width: 80%;
+        padding-left:3px;
+        padding-right:3px;
+    }
+    .fivecolumns .col-lg-4 {
+        width: 80%;
+        *width: 80%;
         padding-left:3px;
         padding-right:3px;
     }
@@ -90,6 +113,18 @@ a {
         padding-left:3px;
         padding-right:3px;
     }
+    .fivecolumns .col-md-4 {
+        width: 80%;
+        *width: 80%;
+        padding-left:3px;
+        padding-right:3px;
+    }
+    .fivecolumns .col-lg-4 {
+        width: 80%;
+        *width: 80%;
+        padding-left:3px;
+        padding-right:3px;
+    }
 }
 @media (min-width: 768px) and (max-width: 979px) {
     .fivecolumns .col-lg-2 {
@@ -113,6 +148,18 @@ a {
     .fivecolumns .col-lg-3 {
         width: 60%;
         *width: 60%;
+        padding-left:3px;
+        padding-right:3px;
+    }
+    .fivecolumns .col-md-4 {
+        width: 80%;
+        *width: 80%;
+        padding-left:3px;
+        padding-right:3px;
+    }
+    .fivecolumns .col-lg-4 {
+        width: 80%;
+        *width: 80%;
         padding-left:3px;
         padding-right:3px;
     }
