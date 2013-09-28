@@ -59,7 +59,7 @@
     <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-left" style="color:#006699;padding-left:0px;">
     <span style="font: italic bold 17px MorganSansBoldOblique;" >Unidade de Alumni &amp; Fundraising</span>
     </div>
-    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-right" style="padding-left:0px;padding-right:0px;">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-right" >
     <a href="https://www.facebook.com/ISCTEIUL"><img src="img/icones/facebook.jpg" alt="facebook"></a>
     <a href="http://www.flickr.com/photos/iscteiul/"><img src="img/icones/flickr.jpg" alt="flickr"></a>
     <a href="http://www.linkedin.com/company/iscte-iul"><img src="img/icones/linkedin.jpg" alt="linkedin"></a>

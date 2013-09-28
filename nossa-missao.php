@@ -8,7 +8,7 @@
 
     <div class="row fivecolumns" style="margin:0px;">
     <div class="col-lg-2 col-md-2" style="padding-left:0;">
-        <big>A nossa missão</big>
+        &nbsp;
     </div>
     <div class="col-lg-3 col-md-3">
         
