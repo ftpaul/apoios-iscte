@@ -29,12 +29,12 @@ body {
   }
 }
 .header, #footer {
-    background-color: #cbcbcb;
+    background-color: #dedee0;
     font-family: morganbigregular;
-    font-size: 13px
+    font-size: 14px
 }
 .navbar-default {
-    background-color: #cbcbcb;
+    background-color: #dedee0;
 }
 .navbar {
 border-radius: 0;

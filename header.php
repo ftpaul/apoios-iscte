@@ -1,7 +1,7 @@
       <!DOCTYPE html>
       <html>
         <head>
-          <title>UAF</title>
+          <title>Alumni & Fundraising</title>
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <link href="css/font.css" rel="stylesheet" media="screen">
           <link href="css/bootstrap.css" rel="stylesheet" media="screen">
@@ -24,11 +24,11 @@
     <div id="wrap">
 
       <div class="navbar-default navbar-static-top hidden-xs header" style="height:30px;">
-        <div class="container" style="padding-top:3px">
+        <div class="container" style="padding-top:2px">
         <div class="row" >
           <div class="col-lg-9 col-md-11 col-sm-12 center" >
               <div class="row" style="padding-top:3px;">
-                  <div class="col-lg-2 col-md-2 col-sm-2 text-left">  
+                  <div class="col-lg-2 col-md-2 col-sm-2 text-center">  
                     <small><a target="_blank" href="http://iscte-iul.pt/">ISCTE-IUL</a></small>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-3 text-center">  
@@ -40,7 +40,7 @@
                   <div class="col-lg-3 col-md-3 col-sm-3 text-center">  
                     <small><a target="_blank" href="http://iscte-iul.pt/">MURAL SOLID&Aacute;RIO</a></small>
                   </div>
-                  <div class="col-lg-2 col-md-2 col-sm-2 text-right">  
+                  <div class="col-lg-2 col-md-2 col-sm-2 text-center">  
                     <small><a target="_blank" href="http://iulstore.iscte-iul.pt/">IUL STORE</a></small>
                   </div>
                 </div>
@@ -56,8 +56,8 @@
         <a href="/"><img src="img/logo.jpg" class="img-responsive"></a>
 
     <div class="row" style="margin-left:0;padding:7.5px 0;">
-    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-left" style="color:#006699;padding-left:0px;">
-    <span style="font: italic bold 17px MorganSansBoldOblique;" >Unidade de Alumni &amp; Fundraising</span>
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-left" style="color:#005a96;padding-left:0px;">
+    <span style="font: italic bold 18px MorganSansBoldOblique;" >Unidade de Alumni &amp; Fundraising</span>
     </div>
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-right" >
     <a href="https://www.facebook.com/ISCTEIUL"><img src="img/icones/facebook.jpg" alt="facebook"></a>
@@ -76,12 +76,12 @@
           <span class="icon-bar"></span>
         </button>
       </div>
-      <div class="navbar-collapse collapse" style="font-size:85%" >
+      <div class="navbar-collapse collapse" style="font-size:80%" >
         <ul class="nav nav-justified">
           <li><a href="nossa-missao">A NOSSA MISS&Atilde;O</a></li>
           <li><a href="network">NETWORK COMMUNITY</a></li>
           <li><a href="catedra">C&Aacute;TEDRA ISCTE-IUL</a></li>
-          <li><a target="_blank" href="http://responsavel.iscte-iul.pt/">IUL RESPONS&Aacute;VEL</a></li>
+          <li><a target="_blank" href="http://responsavel.iscte-iul.pt/">ISCTE-IUL RESPONS&Aacute;VEL</a></li>
           <li><a href="#">COMO APOIAR-NOS?</a></li>
         </ul>
       </div><!--/.nav-collapse -->
