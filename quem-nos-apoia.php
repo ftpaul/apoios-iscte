@@ -57,12 +57,83 @@
 
   <div class="tab-content">
     <div id="pane1" class="tab-pane active">
-      <h4>Institui&ccedil;&otilde;es</h4>
-      <pre>Brevemente dispon&icute;l</pre>
+      <?php    
+
+  $text = file_get_contents("js/instituicoes.js");
+
+  $exploded = explode("\n",$text);
+
+  $size = sizeof($exploded);
+
+  if ($size > 1) {
+    
+    echo '<div class="row">';
+    echo '<div class="col-lg-6 col-md-6" style="padding-right:15px;padding-left:15px;text-align:justify;">';
+
+    if ($size % 2 == 0) {
+
+      for ($i = 0; $i != $size/2; $i++) { 
+        echo "<p>" . $exploded[$i] . "</p>";
+        
+      }
+
+    } else {
+
+      for ($i = 0; $i != ($size-1)/2; $i++) { 
+        echo "<p>" . $exploded[$i] . "</p>";
+        
+      }
+
+    }
+    echo '</div>';
+    echo '<div class="col-lg-6 col-md-6" style="padding-right:15px;padding-left:15px;text-align:justify;">';
+    for (; $i != $size; $i++) { 
+      echo "<p>" . $exploded[$i] . "</p>";
+    }
+    echo '</div>';
+    echo '</div>';
+
+  }
+
+  ?>
     </div>
     <div id="pane2" class="tab-pane">
-    <h4>Particulates</h4>
-      <pre>Brevemente dispon&icute;l</pre>
+
+  <?php    
+
+  $text = file_get_contents("js/particulares.js");
+
+  $exploded = explode("\n",$text);
+
+  $size = sizeof($exploded);
+
+  echo '<div class="row">';
+  echo '<div class="col-lg-6 col-md-6" style="padding-right:15px;padding-left:15px;text-align:justify;">';
+
+  if ($size % 2 == 0) {
+
+    for ($i = 0; $i != $size/2; $i++) { 
+      echo "<p>" . $exploded[$i] . "</p>";
+      
+    }
+
+  } else {
+
+    for ($i = 0; $i != ($size-1)/2; $i++) { 
+      echo "<p>" . $exploded[$i] . "</p>";
+      
+    }
+
+  }
+  echo '</div>';
+  echo '<div class="col-lg-6 col-md-6" style="padding-right:15px;padding-left:15px;text-align:justify;">';
+  for (; $i != $size; $i++) { 
+    echo "<p>" . $exploded[$i] . "</p>";
+  }
+  echo '</div>';
+  echo '</div>';
+
+  ?>
     </div>
 
   </div><!-- /.tab-content -->

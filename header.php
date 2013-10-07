@@ -82,7 +82,7 @@
           <li><a href="network">NETWORK COMMUNITY</a></li>
           <li><a href="catedra">C&Aacute;TEDRA ISCTE-IUL</a></li>
           <li><a target="_blank" href="http://responsavel.iscte-iul.pt/">ISCTE-IUL RESPONS&Aacute;VEL</a></li>
-          <li><a href="#">COMO APOIAR-NOS?</a></li>
+          <li><a href="como-apoiar-nos">COMO APOIAR-NOS?</a></li>
         </ul>
       </div><!--/.nav-collapse -->
     </div>
