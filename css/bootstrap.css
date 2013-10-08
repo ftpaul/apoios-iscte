@@ -301,7 +301,7 @@ html {
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.428571429;
   color: #333333;
   background-color: #ffffff;
@@ -516,12 +516,12 @@ h4,
 
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 10px;
 }
 
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 10px;
 }
 
 h1 small,

@@ -76,7 +76,7 @@
           <span class="icon-bar"></span>
         </button>
       </div>
-      <div class="navbar-collapse collapse" style="font-size:80%" >
+      <div class="navbar-collapse collapse" style="font-size:95%" >
         <ul class="nav nav-justified">
           <li><a href="nossa-missao">A NOSSA MISS&Atilde;O</a></li>
           <li><a href="network">NETWORK COMMUNITY</a></li>

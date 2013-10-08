@@ -5,7 +5,7 @@
 
     <div class="col-lg-12 col-md-12 col-sm-6" style="padding-left:0px;padding-right:0px;padding-top:0px;">
 
-    <div class="row fivecolumns" style="margin:0px;font-size: 80%;">
+    <div class="row fivecolumns" style="margin:0px;font-size: 95%;">
     <div class="col-lg-2 col-md-2" style="padding-top:0px;padding-left:0;padding-right:4px;">
         <a href="network"><img class="img-responsive" src="img/quadrados/quadrado4.jpg" ></a>
         <p style="text-align:justify;padding:3px">O ISCTE-IUL NETWORK COMMUNITY &eacute; uma comunidade composta por todos aqueles que de alguma foram influenciados pelo ISCTE-IUL.</p>
