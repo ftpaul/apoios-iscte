@@ -8,7 +8,7 @@
 
     <div class="row fivecolumns" style="margin:0px;">
     <div class="col-lg-2 col-md-2" style="padding-left:0;">
-        <img class="img-responsive" src="img/quadrados/quadrado0.jpg" >
+        <img class="img-responsive" src="img/quadrados/quadrado4.jpg" >
 
         <div class="row" style="margin: 5px 0 ;">
           <div class="col-lg-6 col-md-6" style="padding-right:3px;padding-left:0px;">
@@ -50,7 +50,7 @@
 
     <div class="col-lg-3 col-md-3">
         <div class="row">
-          <div class="col-lg-12 col-md-12" style="padding-right:15px;padding-left:15px;text-align:justify;">
+          <div class="col-lg-12 col-md-12" style="padding-right:17px;padding-left:17px;text-align:justify;">
           <h3>ISCTE-IUL Network Community</h3>
 
 <p>Para fortalecer a imagem do ISCTE-IUL neste contexto altamente competitivo, precisamos do empenho e apoio de todos os seus alumni. O reconhecimento da marca ISCTE-IUL enquanto institui&ccedil;&atilde;o de refer&ecirc;ncia, ter&aacute; impacto no reconhecimento da sua formaç&atilde;o e/ou percurso profissional no mercado de emprego e consequentemente na sua empregabilidade. &Eacute; por este motivo que acreditamos que todos os nossos alumni, quer residam em territ&oacute;rio nacional, quer residam em territ&oacute;rio estrangeiro, se juntar&atilde;o a n&oacute;s para apoiar a prossecu&ccedil;&atilde;o do nosso objectivo.</p>
@@ -90,7 +90,7 @@
           
           <div class="col-lg-6 col-md-6" style="padding-right:0px;padding-left:3px;">
 
-          <a href="network"><img class="img-responsive" src="img/quadrados/quadrado4.jpg" ></a>
+          <a target="_blank" href="http://apoios.iscte-iul.pt/quem-nos-apoia"><img class="img-responsive" src="img/quadrados/quadrado0.jpg" ></a>
 
           </div>
         </div>

@@ -41,7 +41,7 @@
                     <small><a target="_blank" href="http://iscte-iul.pt/">MURAL SOLID&Aacute;RIO</a></small>
                   </div>
                   <div class="col-lg-2 col-md-2 col-sm-2 text-center">  
-                    <small><a target="_blank" href="http://iulstore.iscte-iul.pt/">IUL STORE</a></small>
+                    <small><a target="_blank" href="http://iulstore.iscte.pt/">IUL STORE</a></small>
                   </div>
                 </div>
               </div>

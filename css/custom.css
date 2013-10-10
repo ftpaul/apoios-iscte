@@ -20,6 +20,9 @@ body {
 .center {
   float:none; margin:0 auto;
 }
+.instituicao {
+    padding: 5px;
+}
 @media (max-width: 767px) {
   #footer {
     margin-left: -20px;
